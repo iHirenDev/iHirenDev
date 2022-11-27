@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  I am a Mobile Application Developer<br>🔭  I am currently working on Flutter and iOS Development<br>👀  I am interested in learning Django for backend development<br>📫  How to reach me: Check social links below
+👋  I am a Mobile Application Developer<br>🔭  I am currently working on Flutter and iOS Development. Also exporing Data Analysis using Python<br>👀  I am interested in learning Django for backend development<br>📫  How to reach me: Check social links below
 
 
 ## 🌐 Socials:
