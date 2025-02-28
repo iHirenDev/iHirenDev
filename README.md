@@ -2,7 +2,6 @@
 👋  I am a Mobile Application Developer and Front-End developer <br>🔭  I am currently working on Flutter and iOS Development. Also exploring React and React Native<br>👀  I am interested in learning Django for backend development<be>
 ## Projects:
 
-🌐 [Coders Blog](https://coders-blog-appwrite.vercel.app/)
 
 
 ## ![connect_new](https://github.com/iHirenDev/iHirenDev/assets/6905075/b6aeff70-dbc7-4f29-8503-696da05d5b16) Socials:
