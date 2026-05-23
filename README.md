@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  I am a Mobile Application Developer and Front-End developer <br>🔭  I am currently working on Flutter and iOS Development. Also exploring React and React Native<br>👀  I am interested in learning Django for backend development<be>
+👋  I am a Mobile Application Developer and Front-End developer <br>🔭  I am currently working on React and React Native<br>👀  I am interested in learning NextJS for full stack development<be>
 ## Projects:
 
 
